@@ -1,29 +1,36 @@
-# Read Me
-<!-- 
+# StOCK_TAKER
 
-Porject Name:
+## Short Description
 
-Stock Taker
+Stock Taker is a Python program used to track the stock of products.
 
-short description:
+## Table of Contents
 
-A python program used to track stock of products.
+- [Files](#files)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
 
-Table of contents:
+## Files
 
-- inventory.py
-- inventory.txt
+The project consists of two main files:
 
-Installation:
+- `inventory.py`: The Python script that contains the Stock Taker program.
+- `inventory.txt`: A sample text file used for storing the inventory data.
 
-simply download and run the folder in your code editor of choice. Make sure the files are all in the same folder before running the python code.
+## Installation
 
-Usage:
+1. Clone this repository or download the ZIP file.
+2. Ensure that both `inventory.py` and `inventory.txt` are in the same folder.
+3. Open the folder in your preferred Python code editor.
 
-This code relies on user input so you as the user will have to answer the questions asked by the program.
+## Usage
 
-Credits:
+1. Run the `inventory.py` Python script.
+2. The program will prompt you with questions to manage the stock of products.
+3. Use your keyboard to provide input and answer the questions as required.
 
-https://github.com/ZeakMeadows
+## Credits
 
--->
+Credit for this project goes to [ZeakMeadows](https://github.com/ZeakMeadows). Thank you for your contributions!
+
