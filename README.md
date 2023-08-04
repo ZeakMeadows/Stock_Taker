@@ -1,4 +1,4 @@
-# StOCK_TAKER
+# STOCK_TAKER
 
 ## Short Description
 
